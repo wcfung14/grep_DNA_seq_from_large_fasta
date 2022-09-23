@@ -1,6 +1,3 @@
-# https://stackoverflow.com/questions/1767513/how-to-read-first-n-lines-of-a-file
-# https://stackoverflow.com/questions/36027227/grep-for-a-word-and-if-found-print-10-lines-before-and-10-lines-after-the-patte
-
 import re
 import os
 import sys
